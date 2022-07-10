@@ -1,20 +1,20 @@
 class script(object):
     START_TXT = """<b>HELLO {},
-MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍
-OR JUST PM THE SERIES NAME</b>
+MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍
+OR JUST PM THE MOVIE NAME</b>
 
 <B><U>NOTE</U></B>
-Messages will disappear after 30 Minutes
+⚠️Messages will disappear after 60 hours
 """
     START_grp_TXT = """
     Hi..,
-I provide series in group as well as in PM. Add me to your group as admin or just pm the Series name
+I provide series in group as well as in PM. Add me to your group as admin or just pm the Movie name
     
 <B><U>NOTE</U></B>
-Messages will disappear after 30 Minutes for copyright infringement safety  
+Messages will disappear after 60 hours for copyright infringement safety  
     """
-    START_gp_TXT = """𝙷𝙴𝙻𝙾 {}  🙋🏻🙋🏻‍♀
-I series, just pm series name or you can add me to your group.
+    START_gp_TXT = """𝙷𝙴𝙻𝙻𝙾 {}  🙋🏻🙋🏻‍♀
+I provide Movies, just pm Movies name or you can add me to your group.
 
 <B><U>NOTE</U></B>
 My messages will disappear after 30 Minutes for copyright infringement safety
@@ -149,5 +149,5 @@ Username = <code>{}</code>
 """
     MAIL_ID_TXT = """
     <b>Currently you are using this mail for heroku account</b>\n
-ID - <code>{}</code>
+ID - <code>{}</code>\nsaverestricted@gmail.com \ntiyesemwinazingatheke@gmail.com (alt)
 """
