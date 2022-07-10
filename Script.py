@@ -3,8 +3,8 @@ class script(object):
 MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍
 OR JUST PM THE MOVIE NAME</b>
 
-<B><U>NOTE</U></B>
-⚠️Messages will disappear after 60 hours
+<B><U>⚠️NOTE⚠️</U></B>
+<code>Messages will disappear after 6 hours</code>
 """
     START_grp_TXT = """
     Hi..,
