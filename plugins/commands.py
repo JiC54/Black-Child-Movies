@@ -53,7 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍Search🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('📋Index📋', url='https://t.me/+cMOGjekFKbNhYmRk')
+            InlineKeyboardButton('🍿2022 Movies🍿', url='https://t.me/+H_6j47erCp44YjY0')
             ],[
             InlineKeyboardButton('🛠Tools🛠', callback_data='help'),
             InlineKeyboardButton('❕About❕', callback_data='about')
@@ -101,7 +101,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍Search🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('📋Index📋', url='https://t.me/+cMOGjekFKbNhYmRk')
+            InlineKeyboardButton('🍿2022 Movies🍿', url='https://t.me/+H_6j47erCp44YjY0')
             ],[
             InlineKeyboardButton('🛠Tools🛠', callback_data='help'),
             InlineKeyboardButton('❕About❕', callback_data='about')
